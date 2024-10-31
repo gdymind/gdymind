@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @gdymind, a Ph.D. student at the University of Minnesota.
+- 👋 Hi, I’m @gdymind, a Ph.D. candidate at the University of Minnesota.
 - 👀 I’m interested in distributing LLM infra, key-value stores, emerging storage systems, and machine learning for systems.
 - 📫 How to reach me: dong0198@umn.edu
